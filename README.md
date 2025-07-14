@@ -26,7 +26,7 @@ Este repositório contém o código-fonte do meu site de portfólio pessoal. Ele
 
 Você pode acessar a versão online e interativa do meu portfólio diretamente através do GitHub Pages:
 
-**[Link para o seu Portfólio Online Aqui]([[https://malucyrino.github.io/portfolio/](https://malucyrino.github.io/nome-do-repositorio/)])**
+**[Link para o seu Portfólio Online Aqui]([https://malucyrino.github.io/nome-do-repositorio/])**
 
 ---
 
@@ -34,5 +34,5 @@ Você pode acessar a versão online e interativa do meu portfólio diretamente a
 
 Sinta-se à vontade para entrar em contato comigo!
 
-* **LinkedIn:** [[Seu Perfil no LinkedIn](https://www.linkedin.com/in/malucyrino/)](https://www.linkedin.com/in/malucyrino/)
+* **LinkedIn:** [https://www.linkedin.com/in/malucyrino/]
 * **Email:** [malucgleandro14@gmail.com](mailto:malucgleandro14@gmail.com)
