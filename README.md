@@ -34,5 +34,5 @@ Você pode acessar a versão online e interativa do meu portfólio diretamente a
 
 Sinta-se à vontade para entrar em contato comigo!
 
-* **LinkedIn:** [https://www.linkedin.com/in/malucyrino/]
+* **LinkedIn:** https://www.linkedin.com/in/malucyrino/
 * **Email:** [malucgleandro14@gmail.com](mailto:malucgleandro14@gmail.com)
